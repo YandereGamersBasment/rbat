@@ -12,7 +12,7 @@ cat << "EOF"
 EOF
 echo -e "\033[0m"
 
-read -p "reminder you must have wine einstalled for rbat to work " wine
+read -p "reminder you must have wine installed for rbat to work " wine
 echo ""
 read -p "Do you want to install the 'rbat' script to /usr/local/bin/? [y/n] " choice
 
